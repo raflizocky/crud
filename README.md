@@ -1,7 +1,16 @@
-This project is a simple CRUD (Create, Read, Update, Delete) application built with PHP and MySQL. It allows users to manage a list of students by performing basic operations such as adding, editing, and deleting records. 
+# Overview 
+This project is a PHP and MySQL-based CRUD (Create, Read, Update, Delete) application for managing student records. Users can add, edit, and delete student information efficiently.
 
 ---
 
-<img width="960" alt="home-page" src="https://github.com/raflizocky/web-projects/assets/111034180/fe2c0278-7269-4a94-b1cf-99d4f76bd591">
-<img width="960" alt="edit-page" src="https://github.com/raflizocky/web-projects/assets/111034180/89060e6e-d197-4966-8b88-f5b6000dafdf">
-<img width="960" alt="add-page" src="https://github.com/raflizocky/web-projects/assets/111034180/9ce34b2f-c81c-42d2-ba8f-77bc23d4df89">
+<img width="960" alt="home-page" src="https://github.com/raflizocky/crud/assets/111034180/4ec72d4d-1e19-45b8-a248-c106fd2f1398">
+<img width="960" alt="edit-page" src="https://github.com/raflizocky/crud/assets/111034180/005fbbfb-a336-4f5e-8ed5-2c98c8c95d9f">
+<img width="960" alt="add-page" src="https://github.com/raflizocky/crud/assets/111034180/d8427ba9-aa3e-4b90-bc8c-b5e66a351c2b">
+
+---
+
+## Pull Requests
+Feel free to contribute to this repository by creating pull requests to add new features or demonstrate library usage.
+
+## Support Me
+> Just **star** or **fork** this repository and follow my GitHub. Your support means a lot!
