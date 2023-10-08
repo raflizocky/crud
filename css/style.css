@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    height: 100px;
+}
+
+.container {
+    border: 1px solid #ccc;
+}
